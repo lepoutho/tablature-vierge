@@ -49,6 +49,7 @@ h1{
   font-size: clamp(26px, 6vw, 36px);
   margin: 8px 0 28px;
 }
+.downloads{ display: flex; flex-direction: column; gap: 12px; }
 .download-btn{
   display: inline-block;
   font-weight: 600;
